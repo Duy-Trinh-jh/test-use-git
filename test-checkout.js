@@ -1,0 +1,1 @@
+const checkout = "test checkout"
